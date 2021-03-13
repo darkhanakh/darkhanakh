@@ -3,7 +3,7 @@
 ### Check my instagram [darkhan.akh](https://www.instagram.com/akh.darkhan/)
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex)
@@ -13,5 +13,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### Learning new technologies
 ![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
-![React Native](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![React Native](https://img.shields.io/badge/-React-Native-090909?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
