@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
-### Тew technologies that I'm learning
+### New technologies that I'm learning
 ![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
