@@ -9,8 +9,10 @@
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+### Learning technologies
+![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 
 
 <!--
