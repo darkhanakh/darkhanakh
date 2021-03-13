@@ -13,6 +13,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### Learning new technologies
 ![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
-![React Native](https://img.shields.io/badge/-React-Native-090909?style=for-the-badge&logo=React)
+![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 
