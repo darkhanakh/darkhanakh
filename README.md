@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, my name is *Darkhan Akhemetov* 👋
+## I'm beginner developer from *Almaty, Kazakhstan*
+### Check my instagram [darkhan.akh](https://www.instagram.com/akh.darkhan/)
+### Languages, Technologies and skills 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 <!--
 **darkhanakh/darkhanakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
