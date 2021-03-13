@@ -17,5 +17,4 @@
 ![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
-![ASPNetCore](https://img.shields.io/badge/-ASP_Net_Core-090909?style=for-the-badge&logo=ASPNetCore)
-
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
