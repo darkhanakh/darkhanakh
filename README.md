@@ -15,7 +15,10 @@
 ![React Native](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
+### Planning to learn in future 
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
