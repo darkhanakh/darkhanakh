@@ -1,4 +1,4 @@
-# Hi there, my name is *Darkhan Akhemetov* 👋
+# Hi there, my name is *Darkhan Akhmetov* 👋
 ## I'm beginner developer from *Almaty, Kazakhstan*
 ### Check my instagram [darkhan.akh](https://www.instagram.com/akh.darkhan/)
 ### Languages, Technologies and skills 
