@@ -1,5 +1,5 @@
 # Hi there, my name is *Darkhan Akhmetov* 👋
-## I'm beginner developer from *Almaty, Kazakhstan*
+## I'm beginner frontend developer from *Almaty, Kazakhstan*
 ### Check my instagram [darkhan.akh](https://www.instagram.com/akh.darkhan/)
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
