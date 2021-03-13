@@ -18,3 +18,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
