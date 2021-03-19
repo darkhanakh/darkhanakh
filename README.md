@@ -3,7 +3,7 @@
 ### Check my instagram [darkhan.akh](https://www.instagram.com/akh.darkhan/)
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
