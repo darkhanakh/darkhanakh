@@ -4,7 +4,7 @@
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
-![Vue](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue)
 ![Vuex](https://img.shields.io/badge/-Vuex-090909?style=for-the-badge&logo=vuex)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
