@@ -9,10 +9,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ### New technologies that I'm learning
 ![Express](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
 ![React Native](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
