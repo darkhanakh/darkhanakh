@@ -22,5 +22,5 @@
 ### Planning to learn in future 
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
-![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=Nest)
+![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nest)
 
