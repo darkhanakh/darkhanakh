@@ -10,10 +10,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Nest](https://img.shields.io/badge/-Nest.js-090909?style=for-the-badge&logo=nestjs)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ### New technologies that I'm learning
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase)
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart)
 ### Planning to learn in future 
