@@ -1,6 +1,5 @@
 # Hi there, my name is *Darkhan Akhmetov* 👋
 ## I'm fullstack developer from *Almaty, Kazakhstan*
-### Check my instagram [akh.darkhan](https://www.instagram.com/akh.darkhan/)
 ### Languages, Technologies and skills: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React)
