@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkhanakh&label=Profile%20views&color=0e75b6&style=flat" alt="darkhanakh" /> </p>
 
-- 🔭 I’m currently working on [README.md Writer](https://github.com/darkhanakh/readme-writer)
+- 🔭 I’m currently working on [README-GPT](https://github.com/darkhanakh/readme-writer)
 
 - 📫 How to reach me **darkhanakhmetov2005@gmail.com**
 
