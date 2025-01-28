@@ -11,13 +11,12 @@ Welcome to my Github profile :)
 
 ```
 - $ cat note.txt
-Feel free to reach me out via email
+Feel free to reach me out via email -> darkhan.akhmetov.student@gmail.com
 
 - $ finger darkhan
 Login: darkhan                   Name: Darkhan Akhmetov  
 Directory: /home/darkhan.        Shell: /usr/bin/fish
-...
-No mail.
+
 Project:
   - Mentoring kids in Nfactorial
   - Working on web, openai and gopher site
