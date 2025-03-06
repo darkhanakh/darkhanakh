@@ -19,11 +19,11 @@ Directory: /home/darkhan.        Shell: /usr/bin/fish
 
 Project:
   - Mentoring kids in Nfactorial
-  - Working on web, openai and gopher site
+  - Working on web, ai and low-level programs
   - Struggling with dsa
 Plan:
   learning... \0/
-  Mostly golang, rust, iot(raspberry pi) and trendy fullstack frameworks
+  Mostly golang, rust, iot and trendy frameworks
 ```
 
 ```
