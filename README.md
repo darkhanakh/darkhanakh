@@ -10,20 +10,23 @@ Welcome to my Github profile :)
 ```
 
 ```
-- $ cat note.txt
-Feel free to reach me out via email -> darkhan.akhmetov.student@gmail.com
+$ cat note.txt
 
-- $ finger darkhan
-Login: darkhan                   Name: Darkhan Akhmetov  
-Directory: /home/darkhan.        Shell: /usr/bin/fish
+Feel free to say hello via email → darkhan.akhmetov.student@gmail.com
 
-Project:
-  - Mentoring kids in Nfactorial
-  - Working on web, ai and low-level programs
-  - Struggling with dsa
-Plan:
-  learning... \0/
-  Mostly golang, rust, iot and trendy frameworks
+$ finger darkhan
+
+Login: darkhan                   Name: Darkhan Akhmetov
+Directory: /home/darkhan         Shell: /usr/bin/fish
+
+Current projects:
+  - Mentoring awesome kids at Nfactorial
+  - Building stuff with web, AI, and low-level coding magic
+  - Wrestling daily with Data Structures & Algorithms 🤼‍♂️
+
+Upcoming adventures:
+  Learning new tech... \o/
+  Mainly exploring Golang, Rust, IoT, and whatever frameworks are trending today 🚀
 ```
 
 ```
