@@ -9,15 +9,13 @@ Or not developer, anyway
 Welcome to my Github profile :)                                                                          
 ```
 
-```
 $ cat note.txt
 
 Feel free to say hello via email → darkhan.akhmetov.student@gmail.com
 
-$ finger darkhan
+$ getent passwd darkhan
 
-Login: darkhan                   Name: Darkhan Akhmetov
-Directory: /home/darkhan         Shell: /usr/bin/fish
+darkhan:x:1001:1001:Darkhan Akhmetov:/home/darkhan:/usr/bin/zsh
 
 Current projects:
   - Mentoring awesome kids at Nfactorial
@@ -27,7 +25,7 @@ Current projects:
 Upcoming adventures:
   Learning new tech... \o/
   Mainly exploring Golang, Rust, IoT, and whatever frameworks are trending today 🚀
-```
+
 
 ```
            __..--''``---....___   _..._    __
