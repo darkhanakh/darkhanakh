@@ -9,6 +9,7 @@ Or not developer, anyway
 Welcome to my Github profile :)                                                                          
 ```
 
+```
 $ cat note.txt
 
 Feel free to say hello via email → darkhan.akhmetov.student@gmail.com
@@ -25,7 +26,7 @@ Current projects:
 Upcoming adventures:
   Learning new tech... \o/
   Mainly exploring Golang, Rust, IoT, and whatever frameworks are trending today 🚀
-
+```
 
 ```
            __..--''``---....___   _..._    __
