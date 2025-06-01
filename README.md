@@ -27,7 +27,7 @@ Current projects:
 
 Upcoming adventures:
   Learning new tech... \o/
-  Mainly exploring Golang, Rust, IoT, and whatever frameworks are trending today 🚀
+  Mainly exploring Golang, Zig, IoT, and whatever frameworks are trending today 🚀
 ```
 
 ```
