@@ -13,7 +13,7 @@ Welcome to my GitHub! 👋
 ```
 $ cat note.txt
 
-Feel free to say hello via email → darkhan.akhmetov.student@gmail.com
+Feel free to say hello via email → darkhanahmetov2005@pm.me
 
 $ getent passwd darkhan
 
