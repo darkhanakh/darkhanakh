@@ -7,7 +7,7 @@
    \ \__\ \__\ \_______\ \_______\ \_______\ \_______\       \ \_______\ \_______\ \__/ /   
     \|__|\|__|\|_______|\|_______|\|_______|\|_______|        \|_______|\|_______|\|__|/    
 
-yo. welcome i guess 👋
+yo. welcome i guess
 ```
 
 ```nu
@@ -26,13 +26,13 @@ yo. welcome i guess 👋
   - founding eng @ nace ai. mostly fullstack, heavy distrubited stuff, llm agents n all the trendy gen ai
   - systems programming wip. slow grind, learnin as i go
   - uni dropout x2 lol. doing my own thing
-  - ex mentor @ nfactorial — shoutout to the kids, they were sharper than me ngl 🤼‍♂️
+  - ex mentor @ nfactorial — shoutout to the kids, they were sharper than me ngl
 
 ~> $env.NEXT_UP | lines
 
   more low level / systems stuff \o/
   rust, zig, kernel-ish things, whateva sticks
-  and whatever ai trend drops next week 🚀
+  and whatever ai trend drops next week
 
 ~> exit
 ```
