@@ -6,27 +6,33 @@
   \ \  \ \  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \       \ \  \_\\ \ \  \_|\ \ \    / /  
    \ \__\ \__\ \_______\ \_______\ \_______\ \_______\       \ \_______\ \_______\ \__/ /   
     \|__|\|__|\|_______|\|_______|\|_______|\|_______|        \|_______|\|_______|\|__|/    
-                                                                                            
-Welcome to my GitHub! 👋                                                                    
+
+yo. welcome i guess 👋
 ```
 
-```
-$ cat note.txt
+```nu
+~> open note.txt
 
-Feel free to say hello via email → github.embezzle945@passmail.net
+  if u wanna say hi → github.embezzle945@passmail.net
 
-$ getent passwd darkhan
+~> open /etc/passwd | where name == darkhan
 
-darkhan:x:1001:1001:Darkhan Akhmetov:/home/darkhan:/usr/bin/zsh
+╭─#─┬──name───┬─uid──┬─gid──┬──────gecos───────┬─────home──────┬──shell──╮
+│ 0 │ darkhan │ 1001 │ 1001 │ darkhan akhmetov │ /home/darkhan │ /bin/nu │
+╰───┴─────────┴──────┴──────┴──────────────────┴───────────────┴─────────╯
 
-Current projects:
-  - Mentoring awesome kids at Nfactorial
-  - Building stuff with web, AI, and low-level coding magic
-  - Wrestling daily with Data Structures & Algorithms 🤼‍♂️
+~> $env.DOING_RN | lines
 
-Upcoming adventures:
-  Learning new tech... \o/
-  Mainly exploring Golang, Zig, IoT, and whatever frameworks are trending today 🚀
+  - mentor kids @ nfactorial (tbh they prolly teach me more)
+  - web stuff, some ai, lil bit of low level when im bored
+  - dsa grind. on and off. mostly off ngl 🤼‍♂️
+
+~> $env.NEXT_UP | lines
+
+  learnin random stuff \o/
+  golang, zig, iot, whatever the cool kids running this week 🚀
+
+~> exit
 ```
 
 ```
@@ -35,5 +41,6 @@ Upcoming adventures:
 ///_.-' _..--.'_    \                    `( ) ) // //
 / (_..-' // (< _     ;_..__               ; `' / ///
  / // // //  `-._,_)' // / ``--...____..-' /// / //
-See ya :)
+
+cya :)
 ```
