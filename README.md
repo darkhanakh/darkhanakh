@@ -23,14 +23,16 @@ yo. welcome i guess 👋
 
 ~> $env.DOING_RN | lines
 
-  - mentor kids @ nfactorial (tbh they prolly teach me more)
-  - web stuff, some ai, lil bit of low level when im bored
-  - dsa grind. on and off. mostly off ngl 🤼‍♂️
+  - founding eng @ nace ai. mostly fullstack, heavy distrubited stuff, llm agents n all the trendy gen ai
+  - systems programming wip. slow grind, learnin as i go
+  - uni dropout x2 lol. doing my own thing
+  - ex mentor @ nfactorial — shoutout to the kids, they were sharper than me ngl 🤼‍♂️
 
 ~> $env.NEXT_UP | lines
 
-  learnin random stuff \o/
-  golang, zig, iot, whatever the cool kids running this week 🚀
+  more low level / systems stuff \o/
+  rust, zig, kernel-ish things, whateva sticks
+  and whatever ai trend drops next week 🚀
 
 ~> exit
 ```
